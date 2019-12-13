@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PAM_app1</string>
+    <string name="login_form_login">Login</string>
+    <string name="login_form_password">Hasło</string>
+    <string name="login_form_repeat_password">Powtórz hasło</string>
+    <string name="login_form_submit">Zaloguj</string>
+    <string name="login_form_register">Rejestruj</string>
+</resources>
